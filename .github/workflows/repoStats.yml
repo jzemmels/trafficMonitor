@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['jzemmels/impressions', 'jzemmels/scored', 'CSAFE-ISU/AOAS-2018-glass-manuscript']
+        statsRepo: ['CSAFE-ISU/AOAS-2018-glass-manuscript', 'samia067/shoerinsics', 'UCIDataLab/uci-digital-evidence/', 'CSAFE-ISU/shoeprintr', 'heike/bulletxtrctr', 'xhtai/cartridges', 'heike/grooveFinder', 'xhtai/heisenbrgr', 'UCIDataLab/assocr', 'CSAFE-ISU/handwriter', 'zout3/overlapping-ellipses-recognition']
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
