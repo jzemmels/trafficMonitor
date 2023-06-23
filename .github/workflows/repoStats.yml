@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['jzemmels/impressions', 'jzemmels/scored', 'CSAFE-ISU/AOAS-2018-glass-manuscript']
+        statsRepo: ['jzemmels/impressions', 'CSAFE-ISU/AOAS-2018-glass-manuscript']
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
