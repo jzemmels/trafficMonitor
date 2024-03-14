@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,120,30
+/CSAFE-ISU/handwriter/issues,65,7
+/CSAFE-ISU/handwriter/branches,41,2
+/CSAFE-ISU/handwriter/tree/master/R,29,2
+/CSAFE-ISU/handwriter/tree/3b4c40c799fef299c1b9fa218a9ac09ee2081197/inst/extdata/example_images/template_training_images,24,1
+/CSAFE-ISU/handwriter/blob/15abafd7a9e3e60397a16bf334ee898736236ecc/R/ClusterModeling_analysisfunctions.R,23,1
+/CSAFE-ISU/handwriter/blob/15abafd7a9e3e60397a16bf334ee898736236ecc/R/ClusterModeling_datafunctions.R,19,1
+/CSAFE-ISU/handwriter/blob/15abafd7a9e3e60397a16bf334ee898736236ecc/R/ClusterModeling_modelfunctions.R,18,1
+/CSAFE-ISU/handwriter/issues/127,17,1
+/CSAFE-ISU/handwriter/issues/116,14,12
