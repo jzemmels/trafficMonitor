@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,61,29
+/CSAFE-ISU/handwriter/issues,16,2
+/CSAFE-ISU/handwriter/branches,16,1
+/CSAFE-ISU/handwriter/tree/master/data,13,2
+/CSAFE-ISU/handwriter/tree/master/R,11,2
+/CSAFE-ISU/handwriter/tree/master/examples/example_template/data,10,1
+/CSAFE-ISU/handwriter/tree/master/tests,8,2
+/CSAFE-ISU/handwriter/blob/master/R/RcppExports.R,6,2
+/CSAFE-ISU/handwriter/tree/master/data-raw,6,2
+/CSAFE-ISU/handwriter/tree/master/examples/example_template/data/template_docs,6,1
