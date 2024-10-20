@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,49,31
+/CSAFE-ISU/handwriter/issues,10,2
+/CSAFE-ISU/handwriter/issues/192,8,1
+/CSAFE-ISU/handwriter/branches,2,1
+/CSAFE-ISU/handwriter/pull/194,2,1
+/CSAFE-ISU/handwriter/tree/master/docs,2,1
+/CSAFE-ISU/handwriter/tree/master/tests,2,1
+/CSAFE-ISU/handwriter/blob/master/docs/index.html,1,1
+/CSAFE-ISU/handwriter/blob/master/tests/testthat.R,1,1
+/CSAFE-ISU/handwriter/compare/193-clusters-warning,1,1
