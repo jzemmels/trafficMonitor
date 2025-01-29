@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,70,22
+/CSAFE-ISU/handwriter/actions,20,1
+/CSAFE-ISU/handwriter/issues,11,5
+/CSAFE-ISU/handwriter/actions/workflows/R-CMD-check.yaml,8,2
+/CSAFE-ISU/handwriter/actions/workflows/R-CMD-check_windows.yaml,8,1
+/CSAFE-ISU/handwriter/issues/204,2,2
+/CSAFE-ISU/handwriter/issues/213,2,2
+/CSAFE-ISU/handwriter/actions/runs/12601646325,2,1
+/CSAFE-ISU/handwriter/actions/runs/12895483785/job/35956449089,2,1
+/CSAFE-ISU/handwriter/actions/runs/12913838935/job/36011996829,2,1
