@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter/actions,145,1
+/CSAFE-ISU/handwriter/actions/workflows/pages/pages-build-deployment,98,1
+/CSAFE-ISU/handwriter,62,14
+/CSAFE-ISU/handwriter/pulls,20,1
+/CSAFE-ISU/handwriter/issues,10,1
+/CSAFE-ISU/handwriter/pull/216,10,1
+/CSAFE-ISU/handwriter/pull/220,5,1
+/CSAFE-ISU/handwriter/actions/workflows/R-CMD-check.yaml,4,3
+/CSAFE-ISU/handwriter/actions/runs/13189807529/job/36820310942,4,1
+/CSAFE-ISU/handwriter/commits/master,3,2
