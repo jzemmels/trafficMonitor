@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,48,31
+/CSAFE-ISU/handwriter/tree/master/data-raw,3,2
+/CSAFE-ISU/handwriter/tree/master/data,2,2
+/CSAFE-ISU/handwriter/tree/master/tests,2,2
+/CSAFE-ISU/handwriter/tree/master/src,2,1
+/CSAFE-ISU/handwriter/actions/workflows/R-CMD-check.yaml,1,1
+/CSAFE-ISU/handwriter/blob/master/NAMESPACE,1,1
+/CSAFE-ISU/handwriter/blob/master/tests/testthat.R,1,1
+/CSAFE-ISU/handwriter/issues/116,1,1
+/CSAFE-ISU/handwriter/issues/22,1,1
