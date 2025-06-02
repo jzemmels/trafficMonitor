@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/AOAS-2018-glass-manuscript/tree/master/glassdata,21,5
+/CSAFE-ISU/AOAS-2018-glass-manuscript/tree/master/glassdata/CompanyA-glass,19,4
+/CSAFE-ISU/AOAS-2018-glass-manuscript/blob/master/glassdata/CompanyB-glass/BA_pane.csv,15,2
+/CSAFE-ISU/AOAS-2018-glass-manuscript/tree/master/glassdata/CompanyB-glass,14,2
+/CSAFE-ISU/AOAS-2018-glass-manuscript/blob/master/glassdata/CompanyA-glass/AA_pane.csv,10,3
+/CSAFE-ISU/AOAS-2018-glass-manuscript/blob/master/glassdata/CompanyA-glass/DAAA_pane.csv,9,2
+/CSAFE-ISU/AOAS-2018-glass-manuscript/blob/master/glassdata/CompanyB-glass/BF_pane.csv,8,1
+/CSAFE-ISU/AOAS-2018-glass-manuscript/blob/master/glassdata/CompanyB-glass/BB_pane.csv,7,1
+/CSAFE-ISU/AOAS-2018-glass-manuscript/blob/master/glassdata/CompanyB-glass/BH_pane.csv,6,1
+/CSAFE-ISU/AOAS-2018-glass-manuscript/blob/master/Glass_all_code.R,5,1
