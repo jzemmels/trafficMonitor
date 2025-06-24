@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,32,22
+/CSAFE-ISU/handwriter/commits/master,5,2
+/CSAFE-ISU/handwriter/issues,5,2
+/CSAFE-ISU/handwriter/tree/1be26487d36e9826aad5583fe1743223895a906b/inst/handwriter,4,1
+/CSAFE-ISU/handwriter/tree/1be26487d36e9826aad5583fe1743223895a906b/inst/handwriter/server,3,1
+/CSAFE-ISU/handwriter/commit/1be26487d36e9826aad5583fe1743223895a906b,2,1
+/CSAFE-ISU/handwriter/tree/1be26487d36e9826aad5583fe1743223895a906b,2,1
+/CSAFE-ISU/handwriter/actions/workflows/R-CMD-check.yaml,1,1
+/CSAFE-ISU/handwriter/blob/1be26487d36e9826aad5583fe1743223895a906b/inst/handwriter/ui/preProcess.R,1,1
+/CSAFE-ISU/handwriter/blob/master/man/figures/README-unnamed-chunk-9-1.png,1,1
