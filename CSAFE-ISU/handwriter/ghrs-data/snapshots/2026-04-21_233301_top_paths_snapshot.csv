@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,42,29
+/CSAFE-ISU/handwriter/releases/tag/v3.2.4,4,1
+/CSAFE-ISU/handwriter/tree/master/R,3,2
+/CSAFE-ISU/handwriter/tree/master,2,2
+/CSAFE-ISU/handwriter/tree/master/examples/example_template/data,2,2
+/CSAFE-ISU/handwriter/actions,1,1
+/CSAFE-ISU/handwriter/actions/workflows/R-CMD-check.yaml,1,1
+/CSAFE-ISU/handwriter/blob/d0eff5ff0f4012b4b4d018e50dd126872121311c/tests/testthat/fixtures/template/data/model.rds,1,1
+/CSAFE-ISU/handwriter/blob/d0eff5ff0f4012b4b4d018e50dd126872121311c/tests/testthat/fixtures/template2/data/analysis.rds,1,1
+/CSAFE-ISU/handwriter/blob/d0eff5ff0f4012b4b4d018e50dd126872121311c/tests/testthat/fixtures/template2/data/questioned_clusters.rds,1,1
