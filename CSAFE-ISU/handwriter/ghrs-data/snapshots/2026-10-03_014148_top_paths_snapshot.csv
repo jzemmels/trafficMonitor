@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CSAFE-ISU/handwriter,38,23
+/CSAFE-ISU/handwriter/blob/master/README.md,5,5
+/CSAFE-ISU/handwriter/issues,5,3
+/CSAFE-ISU/handwriter/blob/master/DESCRIPTION,2,2
+/CSAFE-ISU/handwriter/blob/master/NEWS.md,2,2
+/CSAFE-ISU/handwriter/blob/master/cran-comments.md,2,2
+/CSAFE-ISU/handwriter/commits/master,2,1
+/CSAFE-ISU/handwriter/actions,1,1
+/CSAFE-ISU/handwriter/actions/workflows/R-CMD-check.yaml,1,1
+/CSAFE-ISU/handwriter/actions/workflows/test-coverage.yaml,1,1
